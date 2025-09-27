@@ -1,2 +1,4 @@
 prompt.txt
 .env
+.gitignore
+run.txt
